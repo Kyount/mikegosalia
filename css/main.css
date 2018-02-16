@@ -35,7 +35,7 @@ ul.dropdown-menu a{
 .profile-image {
 	background-color: #1D1D1D;
 	border: none;
-	padding: 10px;
+	padding: 0px;
 	margin: 0 auto;
 	max-height: 400px;
 }
